@@ -1,0 +1,11 @@
+scriptrunner
+joblib
+matbolib
+numpy
+pandas
+plotly
+ply
+ptyprocess
+seaborn
+streamlit
+scikit-learn
